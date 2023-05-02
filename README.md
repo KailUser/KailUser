@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="" target="_blank">Syirezz</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science from English 🇬🇧</h3>
+<h3 align="center">Computer science from United Kingdom 🇬🇧</h3>
 
 <div class="badge-container" align="center">
   <h3>What i use?</h3>
