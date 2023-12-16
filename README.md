@@ -1,42 +1,38 @@
-<h1 align="center">Hi there, I'm <a href="" target="_blank">Syirezz</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science from Russian 🇷🇺</h3>
+<p align="center">
+ <img src="https://avatars.githubusercontent.com/u/111554400?v=4" alt="Syirezz" width="150" height="150">
+</p>
 
-<div class="badge-container" align="center">
-  <h3>What i use?</h3>
-  <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
-    <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&amp;logo=Firefox-Browser&amp;logoColor=white" alt="Firefox">
-  </a>
-  <a href="https://stackoverflow.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&amp;logo=stack-overflow&amp;logoColor=white" alt="Stack Overflow">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
-  </a>
-  <a href="https://www.spotify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&amp;logo=spotify&amp;logoColor=white" alt="Spotify">
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows/windows-11" target="_blank">
-    <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&amp;logo=Windows%2011&amp;logoColor=white" alt="Windows 11">
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord">
-  </a>
-  <a href="https://www.samsung.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&amp;logo=samsung&amp;logoColor=white" alt="Samsung">
-  </a>
-</div>
+<h2 align="center">Syirezz(KailUser)</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kailuser" target="_blank">
-</div>
+<p align="center">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailuser&layout=compact" target="_blank">
-</div>
+</p>
+
+<h3 align="center">Обо мне</h3>
+
+<p align="center">
+ Привет всем! Я русский разработчик на Python. А так же работаю с сайтами(Хоть и ужасно) Иногда мой гитхаб аккаунт может долго быть пустым но это норма.
+</p>
+
+<h3 align="center">Языки и Предметы которые я использую</h3>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></img>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></img>
+</p>
+
+<h3 align="center">Статистика</h3>
+
+<p align="center">
+ <a href="https://github.com/KailUser/KailUser">
+    <img src="https://github-readme-stats.vercel.app/api?username=KailUser&show_icons=true&theme=dark" alt="GitHub Stats">
+ </a>
+</p>
+
+<h3 align="center">Проекты</h3>
+
+<p align="center">
+ <a href="https://github.com/KailUser/CLATON">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KailUser&repo=CLATON&show_icons=true&theme=dark" alt="Repo">
+ </a>
+</p>
