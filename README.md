@@ -2,7 +2,9 @@
  <img src="https://avatars.githubusercontent.com/u/111554400?v=4" alt="Syirezz" width="150" height="150">
 </p>
 
-<h2 align="center">Syirezz(KailUser)</h2>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&width=290&lines=print('Hello%2C+Github%22);console.log(%22KailUser+(Syirezz)%22)" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
 
